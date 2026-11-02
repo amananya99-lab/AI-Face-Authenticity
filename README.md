@@ -182,8 +182,5 @@ Open **http://localhost:5173** and register a new account to access the dashboar
 
 ---
 
-## 👤 Author
-
-**Prasan** — [@Kalki00001](https://github.com/Kalki00001)
 
 > *TruthLens PRO v3.0 · FastAPI · MongoDB · ONNX · ViT · YuNet · React*
