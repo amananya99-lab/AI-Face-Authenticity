@@ -12,7 +12,6 @@
 
 **A real-time, multi-modal biometric intelligence platform that detects AI-generated images, deepfake videos, and live camera spoofing attacks using a dual deep-learning pipeline — running entirely offline on CPU.**
 
-*Built by [Prasan](https://github.com/Kalki00001)*
 
 </div>
 
